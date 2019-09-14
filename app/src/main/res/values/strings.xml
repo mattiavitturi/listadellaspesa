@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ListaDellaSpesa</string>
+    <string name="app_title">Lista della spesa</string>
 </resources>
